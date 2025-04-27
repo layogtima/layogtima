@@ -34,7 +34,9 @@ Digital tinkerer, hardware enthusiast, and community builder with a passion for 
 
 ## ⚡ Current Explorations
 
-- **[ÆTHERWAVES](https://layogtima.com/mono/)** - Virtual theremin that uses hand tracking to let you create music by moving your hands in the air
+- **[OSMOTIC](https://osmotic.layogtima.com/)** - There is no goal; simply exist and absorb
+- **[ZEN MOTE](http://zen.layogtima.com/)** - An interactive audiovisual experience where sound particles
+- **[ÆTHERWAVES](http://aether.layogtima.com/)** - Virtual theremin that uses hand tracking to let you create music by moving your hands in the air
 - **[MONO](https://layogtima.com/mono/)** - An exploration of design within constraints
 - **[SEEDVALLEY](https://seeds.layogtima.com)** - Your personal guide to growing food in Bengaluru
 - **[ARCADE ZERO](http://arcade.sm0l.dev/)** - Step into a world of pixelated nostalgia
